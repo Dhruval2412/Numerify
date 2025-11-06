@@ -106,4 +106,4 @@ Special thanks to:
 > “Learning is a game — Numerify helps you play it smarter.”
 
 
-
+> 🚧 <i>This project is currently under active development. Contributions, ideas, and feedback are welcome!</i>
