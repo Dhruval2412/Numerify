@@ -1,4 +1,3 @@
-
 # 🌟 Numerify — Empowering Confidence Through Numbers
 
 [![Java](https://img.shields.io/badge/Java-17-orange?style=flat&logo=openjdk)]()
@@ -50,7 +49,7 @@ It merges **education**, **psychology**, and **technology** — making learning 
 - 💬 **Motivational Quotes** — daily quotes to keep learners inspired  
 - 🏆 **Reward Policy** — celebrates progress and consistency  
 - 📊 **Progress Dashboard** — track learning stats and visualize growth  
-- 👩‍🏫 **Admin Panel (Planned)** — for managing lessons and learner progress  
+- 👩‍🏫 **Admin Panel (Planned)** — manage lessons and learner progress  
 
 ---
 
@@ -69,19 +68,19 @@ It merges **education**, **psychology**, and **technology** — making learning 
 
 ## 💬 Motivation Behind the Name
 
-> **Numerify** — “To make numbers simple.”
+> **Numerify** — “To make numbers simple.”  
 >
-> The name represents transformation — turning complex problems into clarity,
+> The name represents transformation — turning complex problems into clarity,  
 > and learning into empowerment.
 
 ---
 
 ## 🪄 Future Enhancements
 
-* AI-powered personalized learning recommendations
-* Global leaderboard and community challenges
-* Mobile app version using React Native
-* Accessibility features for all age groups
+- 🤖 AI-powered personalized learning recommendations  
+- 🌍 Global leaderboard and community challenges  
+- 📱 Mobile app version using React Native  
+- ♿ Accessibility features for all age groups  
 
 ---
 
@@ -95,15 +94,16 @@ This project is licensed under the **MIT License** — see [LICENSE](LICENSE) fo
 
 Special thanks to:
 
-* **Akshata Murty** and the *Richmond Foundation* for inspiring this initiative
-* Every educator working to make learning inclusive and joyful
-* The open-source community for providing tools to make this dream real
+- **Akshata Murty** and the *Richmond Foundation* for inspiring this initiative  
+- Every educator working to make learning inclusive and joyful  
+- The open-source community for providing tools to make this dream real  
 
 ---
 
 ### ✨ Created with Purpose by [Dhruval Makwana](https://github.com/Dhruval2412)
 
-> “Learning is a game — Numerify helps you play it smarter.”
+> “Learning is a game — Numerify helps you play it smarter.”  
 
+---
 
-> 🚧 <i>This project is currently under active development. Contributions, ideas, and feedback are welcome!</i>
+> 🚧 *This project is currently under active development. Contributions, ideas, and feedback are welcome!* 🙌
