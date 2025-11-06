@@ -5,7 +5,8 @@
 [![React](https://img.shields.io/badge/React-18-blue?style=flat&logo=react)]()
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-17-blue?style=flat&logo=postgresql)]()
 [![Docker](https://img.shields.io/badge/Docker-Enabled-0db7ed?style=flat&logo=docker)]()
-[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 
 ---
 
@@ -86,7 +87,10 @@ It merges **education**, **psychology**, and **technology** — making learning 
 
 ## 🧾 License
 
-This project is licensed under the **MIT License** — see [LICENSE](LICENSE) for details.
+This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
+
+> © 2025 [Dhruval Ramesh Makwana](https://github.com/Dhruval2412)  
+> Permission is granted, free of charge, to use, copy, modify, and distribute this software under the terms of the MIT License.
 
 ---
 
